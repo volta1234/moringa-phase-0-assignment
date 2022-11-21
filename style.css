@@ -1,0 +1,42 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    background-image: url("https://media.istockphoto.com/id/1206800961/photo/online-shopping-and-payment-man-using-tablet-with-shopping-cart-icon-digital-marketing.jpg?s=612x612&w=0&k=20&c=qG_9JB9ll4P5to97_HVxzMqhhzF0Gi1nWM_hNeiotbk=");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 255;
+}
+h1 {
+    color: bisque;
+    text-align: center;
+    font-size: larger;
+}
+h2 {
+    text-align: center;
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main {
+    margin-top: 3%;
+    margin-left: 40%;
+    margin-right: 44%;
+    color: blanchedalmond;
+}
+.register {
+    background-color: black;
+}
+#register {
+    margin-top: 10%;
+}
+.wrapper {
+    background-color: rgb(12, 8, 14);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100%;
+    padding: 20px;
+    transition: all 0.5s ease;
+}
